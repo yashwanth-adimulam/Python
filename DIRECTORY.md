@@ -608,7 +608,6 @@
   * [Similarity Search](machine_learning/similarity_search.py)
   * [Support Vector Machines](machine_learning/support_vector_machines.py)
   * [Word Frequency Functions](machine_learning/word_frequency_functions.py)
-  * [Xgboost Classifier](machine_learning/xgboost_classifier.py)
   * [Xgboost Regressor](machine_learning/xgboost_regressor.py)
 
 ## Maths
